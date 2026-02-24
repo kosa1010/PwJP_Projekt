@@ -1,5 +1,3 @@
-Programowanie w języku Python 
-
 # Dokumentacja projetu: ** Temat projektu**
 
 ## Zespoł projetowy:
